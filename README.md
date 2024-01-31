@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jluizpst" target="blank"><img src="https://img.shields.io/twitter/follow/jluizpst?logo=twitter&style=for-the-badge" alt="jluizpst" /></a> </p>
 
-- 🌱 I’m currently learning **Back-End development**
+- 🌱 I’m currently learning **Computer Science**
 
 - 👨‍💻 All of my projects are available at [ze-tenorio.github.io](ze-tenorio.github.io)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jlptenorio@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jos%C3%A9-luiz-ten%C3%B3rio-aa1709170/](https://www.linkedin.com/in/jos%C3%A9-luiz-ten%C3%B3rio-aa1709170/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jose-luiz-tenorio/](https://www.linkedin.com/in/jose-luiz-tenorio/)
 
 - ⚡ Fun fact **My dog wrote this README**
 
