@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Luiz Tenório</h1>
-<h3 align="center">Full-Stack Web Developer and Automations Enthusiast</h3>
+<h3 align="center">Agilist, Full-Stack Web Developer & Automations Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ze-tenorio&label=Profile%20views&color=0e75b6&style=flat" alt="ze-tenorio" /> </p>
