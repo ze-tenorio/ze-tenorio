@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jluizpst" target="blank"><img src="https://img.shields.io/twitter/follow/jluizpst?logo=twitter&style=for-the-badge" alt="jluizpst" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Automations Engineering**
 
 - 👨‍💻 All of my projects are available at [ze-tenorio.github.io](ze-tenorio.github.io)
 
