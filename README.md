@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [ze-tenorio.github.io](ze-tenorio.github.io)
 
-- 💬 Ask me about **Web Development Fundamentals & Agile**
+- 💬 Ask me about **Agile & Web Development Fundamentals**
 
 - 📫 How to reach me **jlptenorio@gmail.com**
 
